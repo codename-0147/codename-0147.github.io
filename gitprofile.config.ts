@@ -108,24 +108,27 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Pearson assured Diploma in Information Technology (DiTec)',
+      body: 'ESoft Metro Campus, Colombo',
+      year: 'May 2021',
+    },
+    {
+      name: 'Pearson assured Diploma in English (DiE)',
+      body: 'ESoft Metro Campus, Colombo',
+      year: 'May 2021',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'D. S. Senanayake College',
+      from: '2009',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Java Institute for Advanced Technology',
+      degree: 'BSc(Hons) Software Engineering Top Up - Birmingham City University',
+      from: '2023',
+      to: '2028 (Expected)',
     },
   ],
   publications: [
