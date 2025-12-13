@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1E_b0OSSsOBA4YU10hBNRWBjGpZcJNE71/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1f_Ml6N39bRHApH9dyLPIWDZinYFzpoaI/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Dart',
